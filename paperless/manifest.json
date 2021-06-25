@@ -1,0 +1,13 @@
+{
+  "domain": "paperless",
+  "name": "paperless",
+  "config_flow": true,
+  "documentation": "https://github.com/bendavis/paperless-ha",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@bendavis"],
+  "iot_class": "local_polling"
+}
